@@ -4075,34 +4075,37 @@ Module 12: Penetration Testing Fundamentals
 		- DumpsterDiver https://github.com
 		- GCPBucketBrute https://rhinosecuritylabs.com
 
-- Cloud Attack Countermeasures 
-		- Enforce data protection, backup, and retention mechanisms.
-		- Enforce SLAs for patching and vulnerability remediation.
-		- Vendors should regularly undergo AICPA SAS 70 Type II audits.
-		- Verify one’s cloud in public domain blacklists.
-		- Enforce legal contracts in employee behavior policy.
-		- Prohibit user credentials sharing among users, applications, and services.
-		- Implement secure authentication, authorization, and auditing controls.
-		- Check for data protection at both design and runtime.
-		- Implement strong key generation, storage and management, and destruction practices.
-		- Monitor the client’s traffic for malicious activities.
-		- Prevent unauthorized server access using security checkpoints.
-		- Disclose applicable logs and data to customers.
-		- Analyze cloud provider security policies and SLAs.
-		- Assess the security of cloud APIs and log customer network traffic.
-		- Ensure that the cloud undergoes regular security checks and updates.
-		- Ensure that physical security is a 24 x 7 x 365 affair.
-		- Enforce security standards in installation/configuration.
-		- Ensure that the memory, storage, and network access are isolated.
-		- Leverage strong two-factor authentication techniques, where possible.
-		- Apply a baseline security breach notification process.
-		- Analyze API dependency chain software modules.
-		- Enforce stringent registration and validation process.
-		- Perform vulnerability and configuration risk assessment.
-		- Disclose infrastructure information, security patching, and firewall details to customers.
-		- Employ security devices, such as IDS, IPS, and firewall, to guard and stop unauthorized access to the data stored in the cloud.
-		- Enforce strict supply chain management and conduct a comprehensive supplier assessment.
-		- Enforce stringent security policies and procedures like access control policy, information security management policy, and contract policy.
+
+- Cloud Attack Countermeasures:
+   
+		- Enforce data protection, backup, and retention mechanisms
+		- Enforce SLAs for patching and vulnerability remediation
+		- Vendors should regularly undergo AICPA SAS 70 Type II audits
+		- Verify one’s cloud in public domain blacklists
+		- Enforce legal contracts in employee behavior policy
+		- Prohibit user credentials sharing among users, applications, and services
+		- Implement secure authentication, authorization, and auditing controls
+		- Check for data protection at both design and runtime
+		- Implement strong key generation, storage and management, and destruction practices
+		- Monitor the client’s traffic for malicious activities
+		- Prevent unauthorized server access using security checkpoints
+		- Disclose applicable logs and data to customers
+		- Analyze cloud provider security policies and SLAs
+		- Assess the security of cloud APIs and log customer network traffic
+		- Ensure that the cloud undergoes regular security checks and updates
+		- Ensure that physical security is a 24 x 7 x 365 affair
+		- Enforce security standards in installation/configuration
+		- Ensure that the memory, storage, and network access are isolated
+		- Leverage strong two-factor authentication techniques, where possible
+		- Apply a baseline security breach notification process
+		- Analyze API dependency chain software modules
+		- Enforce stringent registration and validation process
+		- Perform vulnerability and configuration risk assessment
+		- Disclose infrastructure information, security patching, and firewall details to customers
+		- Employ security devices, such as IDS, IPS, and firewall, to guard and stop unauthorized access to the data stored in the cloud
+		- Enforce strict supply chain management and conduct a comprehensive supplier assessment
+		- Enforce stringent security policies and procedures like access control policy, information security management policy, and contract policy
+
 
 	- Side-Channel Attack Countermeasures
 		- Implement a virtual firewall in the cloud server back-end of the cloud computing; this prevents the attacker from placing malicious VMs.
